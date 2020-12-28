@@ -1,5 +1,5 @@
 # 阻止多次发起重复请求
-<p>借助 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)</p>
+借助 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
 ## Project setup
 ```
